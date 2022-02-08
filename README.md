@@ -1,5 +1,5 @@
 # dina-mohamed-portfolio
-Simple web application about Malika Tours in Bayern ⛰️
+Simple web application for my Portfolio :raising_hand:
 - Responsive Design. 
 - Css Grid for Layouts.
 - Navbar.  
